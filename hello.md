@@ -8,6 +8,9 @@ _single underline_
 
 [link](https://stackoverflow.com/)
 
+automatic URLs? www.stackexchange.com
+https://unix.stackexchange.com/
+
 ```c
 int main(void)
 {
