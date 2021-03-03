@@ -1,5 +1,7 @@
 this is `hello.md`
 
+blah.
+
 _single underline_
 *single asterisk*
 **double asterisk**
@@ -58,7 +60,8 @@ int main(int argc, char *argv[])
 
 list:
 
-1. foo
-2. bar
+1. one thing
+2. and some more things
+   - foo
+   - bar
 - doo
-- asdf
