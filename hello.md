@@ -24,6 +24,11 @@ automatic links?
 - angle brackets: <lnet.fi>
 
 
+Footnotes? I bet you'd like more information about this sentence [^1].
+
+[^1]: Well lucky for you, I've included more information in footnote form.
+
+
 inline `code?` 
 
 inline <code>code with tags?</code>
