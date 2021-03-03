@@ -13,6 +13,8 @@ _single underline_
 
 
 automatic links?
+- example.org
+- lnet.fi
 - www.lnet.fi
 - http://www.lnet.fi
 - https://www.lnet.fi
@@ -20,10 +22,7 @@ automatic links?
 - https://lnet.fi
 - brackets: [https://www.lnet.fi]
 - brackets: [www.lnet.fi]
-- brackets: [lnet.fi]
-- angle brackets: https://www.lnet.fi>
-- angle brackets: <www.lnet.fi>
-- angle brackets: <lnet.fi>
+- brackets: [lnet.fi](lnet.fi)
 
 
 Footnotes? I bet you'd like more information about this sentence [^1].
