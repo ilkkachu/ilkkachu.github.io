@@ -31,9 +31,11 @@ Footnotes? I bet you'd like more information about this sentence [^1].
 
 
 inline `code?` 
+inline <code>code within tags?</code>
+inline <code>code and `backticks`?</code>
 
-inline <code>code with tags?</code>
-backticks?? `x=\`echo moi\``
+
+`code in backticks` escaped backticks don't work? `x=\`echo moi\``
 
 
 ```c
