@@ -33,6 +33,7 @@ Footnotes? I bet you'd like more information about this sentence [^1].
 inline `code?` 
 inline <code>code within tags?</code>
 inline <code>code and `backticks`?</code>
+inline <code>code and escaped \`backticks\`??</code>
 
 
 `code in backticks` escaped backticks don't work? `x=\`echo moi\``
